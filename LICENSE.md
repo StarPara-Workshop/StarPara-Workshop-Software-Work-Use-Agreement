@@ -1,0 +1,26 @@
+**StarPara Workshop Software Work Use Agreement**
+
+**Version: 1.1**
+
+**Updated: October 5, 2022**
+
+The software maintained and produced by StarPara Workshop allows users to use and copy normally. Some software is open source, but it is generally clearly marked and the type of open source protocol used is given. However, if there is no indication of whether it is open source, it means that the software may be closed source, and some may have copyrights or patents. For more detailed content, you need to contact and communicate with the maintainer.
+
+
+If you use this software in an illegal industry (including any illegal things), the software developers and maintainers will not be responsible for anything, and the software will not be responsible for your illegal acts.
+
+
+* If you use this software, it means that you have accepted all the contents of this agreement. The contents of the agreement shall be subject to the latest version.
+
+
+* All contents of the agreement are based on the latest version, that is, the latest version is an important standard for the contents of the agreement, including various statements and disclaimers, as well as possible legal matters.
+
+
+* These contents may change, we will announce the latest version as soon as possible.Please pay attention to the online version of the agreement.
+
+
+Online version website (the final content of the license agreement is mainly based on this):
+
+  https://starpara.com/Workshop/LICENSE.TXT
+  
+  https://github.com/StarPara-Workshop/StarPara-Workshop-Software-Work-Use-Agreement/
